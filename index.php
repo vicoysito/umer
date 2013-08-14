@@ -39,8 +39,9 @@
 								
 							
 
-								<div class="dosCorta" ></div>
-								<div class="dosLarga" ></div>
+									
+								<!--<div class="dosCorta" ></div>
+								<div class="dosLarga" ></div>-->
 
 
 
