@@ -139,5 +139,12 @@
 				}
 
 
+	.dosCorta{
+		border: 1px solid red; height: 100px; float: left; width: 250px; margin-right: 10px;
+	}
+	.dosLarga{
+		border: 1px solid red; height: 100px; float: left; width: 690px;
+	}
+
 
 
