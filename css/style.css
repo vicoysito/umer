@@ -54,7 +54,7 @@
 				.col3{
 					width: 310px;
 					height: auto;
-					border: 1px solid red;
+					border: 0px solid red;
 					margin: 5px;
 					float: left;;
 				}
@@ -106,7 +106,7 @@
 					top: 50px; 
 					height: auto;
 					z-index: 10000;
-					border: 1px solid #869CA7;
+					border: 0px solid #869CA7;
 					border-top:0;
 					padding: 0;
 					display:none;
