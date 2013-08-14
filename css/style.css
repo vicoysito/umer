@@ -31,8 +31,18 @@
 					list-style: none; margin-left:126px; 
 				}
 				#nav li{
-					float: left; border-right:1px solid #869ca7; margin-right: 13px;padding: 19px 30px 14px 10px; cursor:pointer;
+					float: left; border-right:1px solid #869ca7; padding: 19px 30px 14px 20px; cursor:pointer;
 				}
+
+				#nav li:hover{
+					background: white; border-top: 1px solid #869ca7;border-bottom:0;
+				}
+
+				#nav .current{
+					background: white; border: 1px solid #869ca7;border-bottom:0;color:#999;
+				}
+
+
 
 				#nav li a{
 					text-decoration: none;
@@ -50,7 +60,7 @@
 				}
 
 				.col1{
-					border: 1px solid red;
+					border: 0px solid red;
 					height: auto;
     				width: 950px;
     				margin: 10px;
@@ -58,7 +68,7 @@
 				}
 
 				.col2{
-					border: 1px solid red;
+					border: 0px solid red;
 					width: 470px; 
 					height: auto;
 					float: left;
@@ -69,6 +79,8 @@
 					width: 99.5%;
 					margin: auto;
 					margin: 20px auto;
+					border: 0;
+					border-top: 2px solid #efefef
 				}
 
 				#wprincipal{
@@ -77,3 +89,55 @@
 				#wprincipal{
 				position:absolute;left:50%; margin-left:-512px; overflow: visible;
 				}
+
+				.botonImg{
+					cursor:pointer;
+					background-position: top !important;
+				}
+				.botonImg:hover{
+					background-position: bottom !important;
+				}
+
+				#beneficiosNav{
+					position: absolute; 
+					background: none repeat scroll 0% 0% white; 
+					left: 522px; 
+					width: 268px; 
+					top: 50px; 
+					height: auto;
+					z-index: 10000;
+					border: 1px solid #869CA7;
+					border-top:0;
+					padding: 0;
+					display:none;
+
+				}
+				#beneficiosNav ul{
+					list-style: none;
+					margin: 0 !important;
+				}
+				#beneficiosNav ul li{
+					  border-bottom: 1px solid #869CA7;
+    				  margin-left: -25px !important;
+    				  padding: 13px 18px;
+    				  width: 90%;
+					  color:#869ca7;
+					  cursor:pointer;
+					  font-size: 12px;
+				}
+
+
+
+
+				#beneficiosNav ul li a{
+				color:#869ca7;
+				text-decoration: none;
+				}
+
+				#beneficiosNav ul li a:hover{
+					text-decoration: underline;
+				}
+
+
+
+
