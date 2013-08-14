@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+	<head>
+			<meta charset="utf-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<title></title>
+			<link rel="stylesheet" href="">
+			<style>
+				*{
+					margin: 0;
+					font-family: helvetica,sans-serif;
+				}
+
+				.anchoPantalla{
+					width: 1024px;
+					
+					margin: auto;
+				}
+
+				#logo{
+					width:150px; height:150px; position:absolute;left:0;top:0; background:white;
+				}
+
+				#wnav1{
+					width:100%; height:60px; background:#EEF3F5; 
+				}
+				#wnav2{
+					width:100%; height:50px; background:#C9D7DF
+				}
+
+				#footer{
+					background:#304048; height:200px;
+				}
+				#principal{
+					box-shadow:0 10px 20px #999; height:1000px;background:white; padding:40px 25px;width: 974px;overflow: hidden;
+				}
+
+				#nav{
+					list-style: none; margin-left:126px; 
+				}
+				#nav li{
+					float: left; border-right:1px solid #869ca7; margin-right: 13px;padding: 19px 30px 14px 10px; cursor:pointer;
+				}
+
+				#nav li a{
+					text-decoration: none;
+					color:#929597;
+					font-size: 14px;
+				}
+
+
+				.col3{
+					width: 310px;
+					height: 100px;
+					border: 1px solid red;
+					margin: 5px;
+					float: left;;
+				}
+
+				.col1{
+					border: 1px solid red;
+					height: 100px;
+    				width: 950px;
+    				margin: 10px;
+				}
+
+				.col2{
+					border: 1px solid red;
+					width: 470px; height: 100px;
+					float: left;
+					margin: 5px;
+
+				}
+				hr{
+					width: 99.5%;
+					margin: auto;
+					margin: 20px auto;
+				}
+
+				#wprincipal{
+					overflow: hidden;
+				}
+				#wprincipal{
+				position:absolute;left:50%; margin-left:-512px; overflow: visible;
+				}
+			</style>
+	</head>
+	<body>
+		<div id="wnav1">
+						<div class="anchoPantalla" style="position:relative;">
+							<div id="logo">
+								<img src="img/logo.png">
+							</div>
+							<img src="img/head_1.png" style="margin-left:157px; margin-top:10px;">
+						</div>
+		</div>
+		<div id="wnav2">
+			<div class="anchoPantalla">
+				<ul id="nav">
+					<li><a href="">NOSOTROS</a></li>
+					<li><a href="">&Uacute;NETE</a></li>
+					<li><a href="">TRABAJO</a></li>
+					<li><a href="">BENEFICIOS</a></li>
+					<li><a href="">FUNDACI&Oacute;N</a></li>
+				</ul>
+			</div>
+		</div>
+		
+						<div id="wprincipal" style="">
+							<div class="anchoPantalla" id="principal" style="background:url(img/logote.jpg) right top no-repeat;">
+								
+
+							
+								<div class="col1"></div>
+								<div class="col1"></div>
+
+								<hr>
+							
+								<div class="col2"></div>
+								<div class="col2"></div>
+
+								<div class="col3"></div>
+								<div class="col3"></div>
+								<div class="col3"></div>
+								
+
+
+
+
+							
+
+							</div>
+
+
+							<div class="anchoPantalla" id="footer">
+								<img src="img/foot.png" >
+							</div>
+
+					  </div>
+	</body>
+</html>

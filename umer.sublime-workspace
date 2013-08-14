@@ -1,0 +1,1516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"sans",
+				"sans-serif  (value)"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"wrapp",
+				"wrappHead"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"htm",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"sr",
+				"sr=  (attribute)"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"border",
+				"border-radius:   (property)"
+			],
+			[
+				"block",
+				"blockUI"
+			],
+			[
+				"query",
+				"query1"
+			],
+			[
+				"wi",
+				"width:   (property)"
+			],
+			[
+				"setTime",
+				"setTimeout	jsWindow"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"tipo",
+				"tipoVentana"
+			],
+			[
+				"img",
+				"img	HTML - Image"
+			],
+			[
+				"li",
+				"link	jsHtml"
+			],
+			[
+				"input",
+				"input	input - submit"
+			],
+			[
+				"on",
+				"onclick=  (attribute)"
+			],
+			[
+				"scri",
+				"script>  (element)"
+			],
+			[
+				"rez",
+				"resize:   (property)"
+			],
+			[
+				"oncli",
+				"onclick"
+			],
+			[
+				"cente",
+				"center  (value)"
+			],
+			[
+				"background-",
+				"background-image:   (property)"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"class",
+				"class=  (attribute)"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"rand",
+				"rand	JS - Random number"
+			],
+			[
+				"fade",
+				"fadeIn  (function)"
+			],
+			[
+				"scrip",
+				"script	HTML - Script"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"ul",
+				"ul	HTML - Unordered list"
+			],
+			[
+				"min",
+				"min_width"
+			],
+			[
+				"conten",
+				"contentWrapp"
+			],
+			[
+				"lo",
+				"lorem	HTML - Lorem Ipsum"
+			],
+			[
+				"slider",
+				"sl-slider"
+			],
+			[
+				"alto",
+				"altoSlider"
+			],
+			[
+				"cam",
+				"cambiaEstado"
+			],
+			[
+				"es",
+				"escondeMenu"
+			],
+			[
+				"posi",
+				"posicionMenuLeft"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"onlod",
+				"onload()	socket.io.js"
+			],
+			[
+				"mensa",
+				"mensajeServidor"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"console",
+				"console	console.log()"
+			],
+			[
+				"consol",
+				"console	console.log()"
+			],
+			[
+				"log",
+				"console.log(message);"
+			],
+			[
+				"acce",
+				"mensajeAcceso"
+			],
+			[
+				"pelicula",
+				"peliculasM"
+			],
+			[
+				"mysql",
+				"mysql_fetch_assoc"
+			],
+			[
+				"te",
+				"textStatus"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"ti",
+				"tipo"
+			],
+			[
+				"min-",
+				"min-width:   (property)"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"script",
+				"script	HTML - Script"
+			],
+			[
+				"ob",
+				"obtener"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"cuen",
+				"cuenta"
+			],
+			[
+				"resul",
+				"result2"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"server",
+				"serverName"
+			],
+			[
+				"Server",
+				"serverName"
+			],
+			[
+				"db",
+				"Db"
+			],
+			[
+				"new",
+				"news_status"
+			],
+			[
+				"proce",
+				"PROCEDURE"
+			],
+			[
+				"id",
+				"identificador"
+			],
+			[
+				"news",
+				"news_descSmall"
+			],
+			[
+				"DE",
+				"DEFAULT"
+			],
+			[
+				"SE",
+				"SET"
+			],
+			[
+				"VA",
+				"valor"
+			],
+			[
+				"big",
+				"bigCOMMENT	bigCOMMENT"
+			],
+			[
+				"de",
+				"defaults"
+			],
+			[
+				"j",
+				"jq-boilerplate	jQuery Plugin Boilerplate"
+			],
+			[
+				"h1",
+				"h1"
+			],
+			[
+				"sc",
+				"script	<script>"
+			],
+			[
+				"_",
+				"_post	CI - $_POST"
+			],
+			[
+				"php",
+				"php-section-comment	Insert a comment block at the start of a new section in your PHP class"
+			],
+			[
+				"print",
+				"print()	print fn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2776,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "machote",
+			"settings":
+			{
+				"buffer_size": 2764,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/firefox.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"zurb",
+				"Snippet: Zurb 2 Column Layout"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"emment",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"jquery",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"script",
+				"Snippet: HTML - Script"
+			],
+			[
+				"include ",
+				"Snippet: javascript_include_tag"
+			],
+			[
+				"javascr",
+				"Snippet: javascript_include_tag"
+			],
+			[
+				"link",
+				"Snippet: link - stylesheet"
+			],
+			[
+				"link c",
+				"Snippet: link - icon"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pa",
+				"Package Control: Add Repository"
+			],
+			[
+				"",
+				"View In Browser"
+			],
+			[
+				"PAGE",
+				"Snippet: jQuery Mobile starter page"
+			],
+			[
+				"JQUERY",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"jque",
+				"Snippet: jQuery Mobile: Number input field"
+			],
+			[
+				"jqu",
+				"Snippet: jQuery Mobile starter page"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery Mobile: Email input field"
+			],
+			[
+				"JQUE",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"JQUERY ",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"commen",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"Snippet: boile",
+				"Snippet: jQuery Plugin Boilerplate Minified"
+			],
+			[
+				"Snippet: boi",
+				"Snippet: jQuery Plugin Boilerplate Minified"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <script>"
+			],
+			[
+				"intall pa",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Clear sniffer marks"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Re",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"Regu ",
+				"Set Syntax: Regular Expression"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/umer/index.html",
+		"/Users/victordespinosavazquez/Desktop/theme/index.html",
+		"/Users/victordespinosavazquez/Desktop/theme/versionFrames/index.html",
+		"/Users/victordespinosavazquez/Desktop/theme/frame.html",
+		"/Users/victordespinosavazquez/Desktop/login/index.html",
+		"/Users/victordespinosavazquez/Desktop/login/loginStyles.css",
+		"/Users/victordespinosavazquez/Desktop/login/login-form-paper-style.html",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/includes/nav.inc",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/ubicaMesa.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/index1.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/index.php",
+		"/Users/victordespinosavazquez/Downloads/login-form-paper-style.html",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/pronunciamiento.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/foto.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/foto_det.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/includes/peligro/ingresaFoto.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/js/amcharts.js",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/graficas.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/img/icons/calendar.png",
+		"/Users/victordespinosavazquez/Desktop/ubicacion.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/semblanza.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/css/styles.css",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/js/alianza.js",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/videos.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/js/blockUI.js",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/css/stylesAcordion.css",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/boletines.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/ubicaMesa",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/infoBasica.php",
+		"/Applications/MAMP/htdocs/CLIENTES/Alianza/consulta/reglamento.php",
+		"/Users/victordespinosavazquez/Library/Application Support/Sublime Text 2/Packages/User/firefox.sublime-build",
+		"/Users/victordespinosavazquez/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default.sublime-keymap",
+		"/Users/victordespinosavazquez/Library/Application Support/Sublime Text 2/Packages/Python IDE/Main.sublime-menu",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat3/art4/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat5/art4/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat1/art15/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat1/art10/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat4/art6/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat1/art16/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat1/art12/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat1/art9/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat1/art14/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat1/art13/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/index.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat1/art11/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat1/art11/aspen.pdf",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat2/art5/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat2/art6/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat2/art6",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/articles/cat1/subcat2/art1/article.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/includes/cat/cat5.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/includes/cat/cat1.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/includes/cat/cat2.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/includes/cat/cat3.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/includes/cat/cat4.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/includes/seccion.pre",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/scripts/utiles.js",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/home.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/includes/cat/cat1.pre",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/hotbook/home1.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/css/styles.less",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/index.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/pruebas/dos.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/pruebas/uno.html",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/includes/contact.php",
+		"/Users/victordespinosavazquez/Library/Caches/TemporaryItems/1-email.php",
+		"/Users/victordespinosavazquez/Library/Caches/TemporaryItems/2-email.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/pruebas/dos.html",
+		"/Users/victordespinosavazquez/Documents/resources/web/forms/jquery-validation-1.11.1/dist/implementationErrorMensajes.txt",
+		"/Users/victordespinosavazquez/Documents/resources/web/forms/jquery-validation-1.11.1/dist/jquery-validate.css",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/css/jquery-validate.css",
+		"/Users/victordespinosavazquez/Documents/resources/web/forms/jquery-validation-1.11.1/dist/additional-methods.js",
+		"/Users/victordespinosavazquez/Documents/resources/web/forms/jquery-validation-1.11.1/changelog.txt",
+		"/Users/victordespinosavazquez/Documents/resources/web/forms/jquery-validation-1.11.1/README.md",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/galerias.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/img/prensa/habita.png",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/css/foundation.css",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/css/component.css",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/gallerys/lineas.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/lineas.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/galerias1.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/js/scrollTo.js",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/css/styles.css",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/index1.html",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/newME/index.html",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/js/boxlayout.js",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/resourcesNOSUBIR/FullscreenLayoutPageTransitions(2)/css/component.css",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/index copia.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/resourcesNOSUBIR/FullscreenLayoutPageTransitions(2)/index.html",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/menu.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/index.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/metropolitan/LIMPIEZA.html",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/style.css",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/style_en.css",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/home.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/nosotros.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/js/modernirz.js",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/js/utiles.js",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/home1.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/images/home.png",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/js/init.js",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/nos/eventos.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/index.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/eventsNavEn.css",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/events.css",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/productos.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/historia.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/inc/header.inc",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/scripts.js",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/js/gallery.js",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/contacto.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/gallery/visita 2.html",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/gallery/visita.html",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/gallery/congreso.html",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/gallery/dos.html",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/nosotros/eventos.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/nosotros",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil/localidades.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/luxence/index.php",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/luxence/theme/supersized.shutter.css",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/luxence/theme/supersized.shutter.js",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/luxence/js/supersized.3.2.7.js",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/luxence/css/supersized.core.css",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/luxence/core.html",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/luxence/js/supersized.shutter.js",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/luxence/fade.html",
+		"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/luxence/js/utils.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/CLIENTES/bengala/haus/spitifil"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			";\n",
+			"echo",
+			"am",
+			"chart",
+			"am",
+			" am",
+			" amcharts",
+			" amcharts.com",
+			"chart by",
+			"width",
+			"300",
+			"<a",
+			"slide",
+			"nivo",
+			"cat1_on",
+			"margin-bottom:",
+			"20%",
+			"btnsPrensa",
+			"alert",
+			"tipoGaleria",
+			"TIPO DE GALERIA A MOSTRAR ",
+			"galerias",
+			"formulario",
+			"galerias",
+			"cerrarBtnGaleria",
+			"c1",
+			"scrolling",
+			"posSec",
+			"scrolling",
+			" &nbsp;&nbsp;&bullet;</a>",
+			"©",
+			"clearfix",
+			"<?",
+			"$width",
+			"$",
+			"$hidden",
+			"$",
+			"src",
+			"$id",
+			"bottom-nav",
+			"contacto",
+			"productios1",
+			".home-espanol a",
+			"10",
+			"localidades",
+			"historia",
+			"WrappGallerys",
+			"nav",
+			"regresarEventos()",
+			"tiempo",
+			"incremento",
+			"num",
+			"regresarEventos",
+			"id=\"eventos\"",
+			"eventos",
+			"anchoGallery",
+			"anchoGaleria",
+			"console.log",
+			"red",
+			";\">",
+			"ABOUT",
+			"<a",
+			"slide-link",
+			"next",
+			"nextSlide()",
+			"api",
+			"slider",
+			"main",
+			"next",
+			"slice1Style",
+			"transition",
+			"transitions",
+			"slitslider",
+			"inner",
+			"bg-img bg-img-1",
+			"img",
+			"bg",
+			"sl-content",
+			"background",
+			"background-image",
+			"inner",
+			"sl-slide",
+			"sl-slide-inner",
+			"bg-img",
+			"jpg",
+			"images",
+			"1.jpg",
+			"bg-img-1",
+			"1.jpg",
+			"bg-img-1",
+			"transition",
+			"slice1Style",
+			"transitions",
+			"resize",
+			"resizeTimeout",
+			"rezi",
+			"btn",
+			"cover",
+			"pel_sin",
+			"echo",
+			"row_cinemania",
+			"while",
+			"display: inline-block; width: 600px; height: 444px;",
+			"news",
+			"mol_News",
+			"mol_ImagesVideo",
+			"anuncio-ampes",
+			"red",
+			"right",
+			"700px",
+			" \n",
+			"result",
+			"free",
+			"free_result",
+			"#mimenu>ul>li*5\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a target=\"_blank\" ",
+			" </a>&nbsp;&nbsp;&bullet;",
+			"width",
+			"",
+			"hidden",
+			"",
+			"<html>\n<head>\n  <title></title>\n</head>\n<body $onLoad=\"MM_preloadImages('images/lineas2.png','images/galeria2.png','images/prensa2.png','images/contacto2.png','images/nosotros2.png','images/nuevos/menu/nosotros2.png')\">\n  <div id='logo'>\n    <img $src='images/nuevos/menu/arribacutrans.png' $width='1920'>\n    <div id='meunew'>\n      <div id='ns'>\n        <a $href='javascript:$.scrollTo(\\\"#hesp\\\", 800);' $onMouseOut=\\\"MM_swapImgRestore()\\\" $onMouseOver=\\\"MM_swapImage('Image7','','images/nosotros2.png',1)\\\">\n          <img $src='images/nosotros1.png' $name='Image7' $width='160' id='Image7'></a>\n      </div>\n      <div id='pm'>\n        <a $href='javascript:$.scrollTo(\\\"#hsp2\\\", 800);' $onMouseOut=\\\"MM_swapImgRestore()\\\" $onMouseOver=\\\"MM_swapImage('lin','','images/lineas2.png',1)\\\">\n          <img $src='images/lineas1.png' $name='lin' $width='124' id='lin'></a>\n      </div>\n      <div id='gm'>\n        <a $href='javascript:$.scrollTo(\\\"#guia1\\\", 800);' $onMouseOut=\\\"MM_swapImgRestore()\\\" $onMouseOver=\\\"MM_swapImage('pre','','images/galeria2.png',1)\\\">\n          <img $src='images/galeria1.png' $name='pre' $width='141' id='pre'></a>\n      </div>\n      <div id='cm'>\n        <a $href='javascript:$.scrollTo(\\\"#guia2\\\", 800);' $onMouseOut=\\\"MM_swapImgRestore()\\\" $onMouseOver=\\\"MM_swapImage('gal','','images/prensa2.png',1)\\\">\n          <img $src='images/prensa1.png' $name='gal' $width='135' id='gal'></a>\n      </div>\n\n      <div id='nm'>\n        <a $href='javascript:$.scrollTo(\\\"#guia3\\\", 800);' $onMouseOut=\\\"MM_swapImgRestore()\\\" $onMouseOver=\\\"MM_swapImage('cont','','images/contacto2.png',1)\\\">\n          <img $src='images/contacto1.png' $name='cont' $width='160' id='cont'></a>\n      </div>\n    </div>\n  </div>\n  <div id='LayoutDiv1'></div>\n  <div id='home'>\n    <img $src='images/nuevos/menu/homespaco.png' $width='1920'>\n    <div id='hesp'></div>\n  </div>\n  <div id='nos'>\n    <img $src='images/nuevos/nosotros.png' $width='1920'></div>\n\n  <div $class='gridContainer clearfix'>\n\n    <div $class='container'></div>\n    <!-- /container --> </div>\n  <div id='hsp2'></div>\n\n  <ul id='Gallery' $class='gallery'>\n\n    <li>\n      <a $href='images/full/001.png' data-related-$url=\\\"http://www.scavolini.es\\\">\n        <img $src='images/thumb/001.jpg' $alt='' />\n      </a>\n    </li>\n    <li>\n      <a $href='images/full/002.png' data-related-$url='http://www.kraftmaid.com'>\n        <img $src='images/thumb/002.jpg' $alt='Image 002' />\n      </a>\n    </li>\n    <li>\n      <a $href='images/full/003.png' data-related-$url='http://www.subzero-wolf.mx'>\n        <img $src='images/thumb/003.jpg' $alt='Image 003' />\n      </a>\n    </li>\n    <li>\n      <a $href='images/full/004.png' data-related-$url='http://www.eurostylekitchens.co'>\n        <img $src='images/thumb/004.jpg' $alt='Image 004' />\n      </a>\n    </li>\n\n  </ul>\n\n  <script>",
+			"",
+			"id",
+			"$id",
+			"TIEMPO",
+			"INCREMENTO",
+			"NUM",
+			"img",
+			"mol_ImagesVideo",
+			"mol_News",
+			"#mimenu>ul>li*5\n"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2405,
+								2405
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1119.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "machote",
+					"settings":
+					{
+						"buffer_size": 2764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2764,
+								2764
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1220.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"newME/css/foundation.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}
